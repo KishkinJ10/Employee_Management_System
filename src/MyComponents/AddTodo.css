@@ -1,0 +1,12 @@
+.custom-select {
+    padding: 8px; /* Adjust padding as needed */
+  }
+  
+  .custom-select option {
+    padding: 10px; /* Adjust padding as needed */
+    background-color: #f1eded; /* Background color for options */
+    color: #0f0e0e; /* Text color for options */
+  }
+  
+  /* Adjust other styles as needed */
+  
